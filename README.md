@@ -71,7 +71,7 @@ Supported datasets:
 | Dataset | Description |
 |---|---|
 | `came` | Camelyon17-style multi-hospital domains |
-| `midog` | MvMidog-Fed scanner domains |
+| `midog` | MvMidog-Fed (https://github.com/onism-dev/MvMidog-Fed-dataset) scanner domains |
 
 The MvMidog-Fed dataset is released in a separate repository:
 
