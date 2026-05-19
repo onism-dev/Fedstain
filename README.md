@@ -72,9 +72,6 @@ Supported datasets:
 |---|---|
 | `came` | Camelyon17-style multi-hospital domains |
 | `midog` | MvMidog-Fed scanner domains |
-| `pacs` | General domain generalization benchmark |
-| `vlcs` | General domain generalization benchmark |
-| `office_home` | General domain generalization benchmark |
 
 ## Training
 
