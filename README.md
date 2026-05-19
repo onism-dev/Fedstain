@@ -45,7 +45,7 @@ FedStain/
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/FedStain.git
+git clone https://github.com/onism-dev/FedStain.git
 cd FedStain
 
 pip install -r requirements.txt
@@ -72,6 +72,14 @@ Supported datasets:
 |---|---|
 | `came` | Camelyon17-style multi-hospital domains |
 | `midog` | MvMidog-Fed scanner domains |
+
+The MvMidog-Fed dataset is released in a separate repository:
+
+```text
+https://github.com/onism-dev/MvMidog-Fed-dataset
+```
+
+Please follow the dataset repository instructions to prepare the `midog` benchmark before running experiments.
 
 ## Training
 
